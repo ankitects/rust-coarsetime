@@ -22,10 +22,11 @@ and works on Rust stable, beta, and nightly.
 
 Windows and Unix-like systems are supported.
 
-Available feature:
+Available features:
 
 * `nightly`: rust compile is rust-nightly - This is required to run
 benchmarks.
+* `sierra`: optimizes for macOS Sierra/High Sierra/Mojave/Catalina
 
 # Documentation
 
